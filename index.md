@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to My Baby Use Spoon Feed Record
 
-You can use the [editor on GitHub](https://github.com/jichungan9498/MyBabyUseSpoonFeedRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Learning to eat with a spoon is a life skill that your baby must have while growing up. As the closest parents to our babies, we should work hard to help and educate our babies to learn to eat with spoons at the right age. We can record the baby's eating habits with a spoon, the experience of using the spoon, and the color of the spoon. In this way, we can better understand our baby's preferences, and we can help our baby learn the skill of using spoons faster and more efficiently.
 
-### Markdown
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will answer them for you in the first time.
 
-```markdown
-Syntax highlighted code block
+### Address: jichungan9498@163.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jichungan9498/MyBabyUseSpoonFeedRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
